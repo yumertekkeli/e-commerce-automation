@@ -1,0 +1,11 @@
+(Parent) ASIN,(Child) ASIN,Title,SKU,Sessions - Total,Sessions - Total - B2B,Session Percentage - Total,Session Percentage - Total - B2B,Page Views - Total,Page Views - Total - B2B,Page Views Percentage - Total,Page Views Percentage - Total - B2B,Featured Offer (Buy Box) Percentage,Featured Offer (Buy Box) Percentage - B2B,Units Ordered,Units Ordered - B2B,Unit Session Percentage,Unit Session Percentage - B2B,Ordered Product Sales,Ordered Product Sales - B2B,Total Order Items,Total Order Items - B2B
+B0A3C4D5B6,B0A3C4D5B6,product 1,GZ-M3JQ-RB74,631,15,8.80%,4.08%,866,17,8.87%,3.50%,99.34%,100.00%,50,18,7.92%,120.00%,"$1,498.78 ",$539.10 ,46,15
+B0B9D0C1A8,B0B9D0C1A8,product 2,KP-39XH-B2Y1,140,2,1.95%,0.54%,195,2,2.00%,0.41%,100.00%,0.00%,29,0,20.71%,0.00%,$173.71 ,$0.00 ,28,0
+B0C1A2B3D4,B0C1A2B3D4,product 3,84-RNQT-7F8W,76,6,1.06%,1.63%,118,11,1.21%,2.26%,100.00%,100.00%,13,3,17.11%,50.00%,$493.75 ,$113.85 ,12,2
+B0D7B6C9A8,B0D7B6C9A8,product 4,TH-QD7K-MJ4B,201,19,2.80%,5.16%,248,21,2.54%,4.32%,99.57%,100.00%,12,5,5.97%,26.32%,$539.68 ,$224.75 ,11,4
+B0E5A4C3B2,B0E5A4C3B2,product 5,5L-2JRV-DX9P,143,10,1.99%,2.72%,193,15,1.98%,3.09%,99.43%,100.00%,29,24,20.28%,240.00%,$810.75 ,$670.80 ,11,6
+B0F8C7B9A6,B0F8C7B9A6,product 6,TL-X8G4-RN5F,239,6,3.33%,1.63%,318,8,3.26%,1.65%,100.00%,100.00%,10,2,4.18%,33.33%,$269.83 ,$59.90 ,10,2
+B0G2D1A0B5,B0G2D1A0B5,product 7,V9-7YKW-T1Z2,63,7,0.88%,1.90%,88,9,0.90%,1.85%,100.00%,100.00%,12,9,19.05%,128.57%,$311.52 ,$233.55 ,9,6
+B0H4B3C8A7,B0H4B3C8A7,product 8,QW-C8N4-K3HM,80,8,1.12%,2.17%,117,11,1.20%,2.26%,100.00%,100.00%,9,4,11.25%,50.00%,$161.75 ,$71.80 ,9,4
+B0I0A9D2B1,B0I0A9D2B1,product 9,TE-B2J6-PFQX,193,12,2.69%,3.26%,255,16,2.61%,3.29%,100.00%,100.00%,9,6,4.66%,50.00%,$494.67 ,$329.70 ,9,6
+B0J6C5A8D4,B0J6C5A8D4,product 10,78-P0ZL-YG3H,88,5,1.23%,1.36%,126,6,1.29%,1.23%,100.00%,100.00%,8,0,9.09%,0.00%,$163.92 ,$0.00 ,8,0
