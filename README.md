@@ -27,8 +27,7 @@ In the end of this project you can reach out to example dashboards below with th
 ## How to run? 
 Read the notebook for explanation of steps ,fill the "your directory" parts in the functions with example data paths respectively. If you'd like to run alert functions with different parameters you can always generate more data in example_data formats or use your own businesses data from Amazon seller central (source below). 
 
-Once all steps done you first run the line "pip install -r requirements.txt", then you can run the notebook "ipython e-commerce-automation.ipynb" locally on command prompt and extract the results with respect to run date. 
-
+Once all steps are done you first run "pip install -r requirements.txt", then you can run the notebook "ipython e-commerce-automation.ipynb" locally on command prompt and extract the results with respect to run date.
 
 ## For own uses 
 This is a sample project you can clone this repository and rename this project for own purposes. 
@@ -40,4 +39,4 @@ You can reach out to reports in same structure through amazon seller central acc
 If you found an issue or would like to send an improvement, please submit an issue on the tab above. 
 
 ## Future Improvements 
-Whole process is to save time on automization of reports extracted from Amazon seller acounts. To fasten up the collection of reports and data an API service provided by Amazon improve the process with efficiency. 
+The whole process is about saving time on automization of reports extracted from Amazon seller acounts. To speed up the collection of reports and data an API service provided by Amazon would improve the process with efficiency.
