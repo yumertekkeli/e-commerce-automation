@@ -14,15 +14,21 @@ In the end of this project you can reach out to example dashboards below with th
 
 1. A high selling product with no structural changes in Sales Rank
 
-<p style="text-align: center"><img src="highsales.png" width="450" height="250" />
+<p style="text-align: center"><img src="dashboards/highsales.png" width="450" height="250" />
 
 2. A neutral performing product
 
-<p style="text-align: center"><img src="neutr.png" width="450" height="250" />
+<p style="text-align: center"><img src="dashboards/neutr.png" width="450" height="250" />
 
 3. A bad performing Product
 
-<p style="text-align: center"> <img src="lowsales.png" width="450" height="250" />
+<p style="text-align: center"> <img src="dashboards/lowsales.png" width="450" height="250" />
+
+## How to run? 
+Read the notebook for explanation of steps ,fill the "your directory" parts in the functions with example data paths respectively. If you'd like to run alert functions with different parameters you can always generate more data in example_data formats or use your own businesses data from Amazon seller central (source below). 
+
+Once all steps done you first run the line "pip install -r requirements.txt", then you can run the notebook "ipython e-commerce-automation.ipynb" locally on command prompt and extract the results with respect to run date. 
+
 
 ## For own uses 
 This is a sample project you can clone this repository and rename this project for own purposes. 
